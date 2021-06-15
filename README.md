@@ -7,7 +7,7 @@ ______
 In order to deploy the application with command line: "mvn clean package".
 
 
-Start the program: "java - jar myredactor.jar 'path to file'".
+Start the program: "java -jar myredactor.jar 'path to file'".
 
 #### The following commands are used to edit text:
 + __list__ - read text from a file and output the text to the console;  
@@ -26,6 +26,6 @@ Start the program: "java - jar myredactor.jar 'path to file'".
 + __ins n__- insert a line. n - the position of a line in a file;
 
 + __save__ - save the file to disk;
-+ __exit__ - exit the program.
++ __quit__ - exit the program.
   ___
 
